@@ -4,7 +4,8 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge. This project is made by Akshat Nema. 
+Thanks for checking out this front-end coding challenge. This project is made by Akshat Nema.
+Project Link is: [3-column preview card component](https://akshatnema.github.io/Preview-Card/) 
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
